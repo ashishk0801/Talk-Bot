@@ -8,3 +8,9 @@ Project requires following libraries:
 4. Chatterbot (To train the bot)
 
 Reference: StackOverflow, Github, Youtube
+
+The output is not as excepted
+
+While I an the program in Pycharm I encountered the following error- AttributeError: module 'time' has no attribute 'clock'
+In Google Colab, microphone access is not possible. It shows the error- OSError: No Default Input Device Available
+ 
